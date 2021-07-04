@@ -1,0 +1,14 @@
+# biloba-user 11 RP1A.200720.011 V12.5.2.0.RCUEUXM release-keys
+- manufacturer: xiaomi
+- platform: mt6768
+- codename: biloba
+- flavor: biloba-user
+- release: 11
+- id: RP1A.200720.011
+- incremental: V12.5.2.0.RCUEUXM
+- tags: release-keys
+- fingerprint: Redmi/biloba_eea/biloba:11/RP1A.200720.011/V12.5.2.0.RCUEUXM:user/release-keys
+- is_ab: true
+- brand: Redmi
+- branch: biloba-user-11-RP1A.200720.011-V12.5.2.0.RCUEUXM-release-keys
+- repo: redmi_biloba_dump
